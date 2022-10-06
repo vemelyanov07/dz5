@@ -1,0 +1,1 @@
+& C:/Users/vemel/AppData/Local/Programs/Python/Python310/python.exe d:/dz6/dz6.py
